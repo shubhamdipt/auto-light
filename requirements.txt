@@ -5,5 +5,5 @@ requests==2.22.0
 RPi.GPIO==0.7.0
 tuyapy==0.1.3
 tuyasmartapi==0.1.2
-urllib3==1.25.5
+urllib3==1.25.8
 
